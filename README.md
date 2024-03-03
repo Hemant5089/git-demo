@@ -1,3 +1,4 @@
 # git-demo
-this is my first git repo./n
-author - hemant
+this is my first git Repo
+Author - Hemant Vaishnav
+ 
